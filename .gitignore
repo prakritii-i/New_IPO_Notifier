@@ -1,0 +1,33 @@
+# Don't track Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments (if any)
+venv/
+env/
+tryyyyy/
+
+# Ignore environment variable file
+.env
+
+# Ignore log files or other temp files
+*.log
+
+# macOS-specific junk
+.DS_Store
+
+# Windows-specific junk
+Thumbs.db
+desktop.ini
+
+# Ignore Selenium driver executables (if you download them)
+chromedriver.exe
+geckodriver.exe
+
+# Ignore database backups (if any)
+*.sqlite
+*.db
+*.sql
+
+# VS Code settings (if you're using it)
+.vscode/
