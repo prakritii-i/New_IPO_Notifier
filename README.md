@@ -82,10 +82,10 @@ python db_added_ipo_notifier_with_selenium_&_no_repetition.py
 
 ```
 ## ✅ Sample Output
-```
+
 <img width="415" height="1157" alt="Screenshot 2025-07-23 210041" src="https://github.com/user-attachments/assets/9ab3c81e-fdad-4e39-a731-3cfdd0e351af" />
 <img width="1397" height="962" alt="Screenshot 2025-07-23 231513" src="https://github.com/user-attachments/assets/555da470-dd56-4069-b872-5874e9619fb8" />
-```
+
 ## 📝 Future Improvements
 ⏰ Add scheduling (e.g., via cron or Windows Task Scheduler)
 
